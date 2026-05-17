@@ -18,4 +18,4 @@
 - [Python Practice](https://github.com/Adam-laf/python_practise)
 
 ## Goals
-- [] Start a career in IT
+- [ ] Start a career in IT
