@@ -1,4 +1,5 @@
 # Hi, I'm Adam! 👋
+Lifelong learner-Tech enthusiast
 
 🐍 Currently learning Python
 
@@ -12,7 +13,6 @@
 
 🤝 I'm looking to collaborate on beginner friendly projects
 
-⚡ Fun fact: I started coding from scratch and I'm loving it!
 
 ## My Projects
 - [Python Practice](https://github.com/Adam-laf/python_practise)
