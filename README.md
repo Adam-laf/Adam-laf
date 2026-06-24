@@ -1,15 +1,12 @@
-# Hi, I'm Adam! 👋
+# Hi, I'm Adam! 
 Lifelong learner-Tech enthusiast
 
-🐍 Currently learning Python
-
-🗄️ Currently learning SQL
-
-📚 Documenting my journey on GitHub
-
-🌱 Python topics covered: Variables, Loops, Functions, Lists, Dictionaries
-
-🗄️ SQL topics covered: SELECT, WHERE, ORDER BY, JOINs, GROUP BY, COUNT, SUM, AVG, Subqueries
+Currently Learning
+- Python for data analysis
+- SQL for analyzing data
+- Excel / Power BI basics
+- Data cleaning and visualization
+- Basic statistics
 
 🤝 I'm looking to collaborate on beginner friendly projects
 
@@ -18,4 +15,4 @@ Lifelong learner-Tech enthusiast
 - [Python Practice](https://github.com/Adam-laf/python_practise)
 
 ## Goals
-- [ ] Start a career in IT
+- Start a career in Data Analytics / Business Intelligence
