@@ -1,5 +1,5 @@
-# Hi, I'm Adam! 
-Lifelong learner-Tech enthusiast
+# Adam Here ..
+Lifelong learner-Tech enthusiast-Playing the piano 
 
 Currently Learning
 - Python for data analysis
